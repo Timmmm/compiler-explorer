@@ -124,6 +124,7 @@ export {RGACompiler} from './rga.js';
 export {RubyCompiler} from './ruby.js';
 export {RustcCgGCCCompiler} from './rustc-cg-gcc.js';
 export {RustCompiler} from './rust.js';
+export {SailCompiler} from './sail.js';
 export {ScalaCompiler} from './scala.js';
 export {SdccCompiler} from './sdcc.js';
 export {SlangCompiler} from './slang.js';
